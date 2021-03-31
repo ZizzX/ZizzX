@@ -14,5 +14,5 @@
 - ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - ![VueJS](https://img.shields.io/badge/vuejs%20-%2335495e?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 
-### Mail me: zizzxiii@gmail.com   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+### <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> Mail me: zizzxiii@gmail.com
 
