@@ -15,4 +15,4 @@
 - ![VueJS](https://img.shields.io/badge/vuejs%20-%2335495e?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 
 ### &#128235; Mail me: zizzxiii@gmail.com
-### <img alt="Instagram" src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/> Instagram: https://instagram.com/alta1r13
+### Instagram: <img alt="Instagram" src="https://img.shields.io/badge/@Alta1r13%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/> 
