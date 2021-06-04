@@ -13,7 +13,7 @@
 
 
 ### 📚 I’m currently learning 
-- ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- ![ReactJS](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 - ![VueJS](https://img.shields.io/badge/vuejs%20-%2335495e?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 <hr>
 
