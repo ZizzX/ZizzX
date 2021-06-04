@@ -20,5 +20,6 @@
 
 
 ### &#128235; Mail me: zizzxiii@gmail.com
+### f095; Tel.: +7 708 302 11 54
 
 ### <img alt="Instagram" src="https://img.shields.io/badge/@Alta1r13%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/> <img alt="Telegram" src="https://img.shields.io/badge/zizzxiii-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
