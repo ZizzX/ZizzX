@@ -1,5 +1,5 @@
 # Hi, my name is **Aziz Isapov** 👋
-## I'm a beginner *Front-end developer* from Kazakhstan.
+## I'm a *Front-end developer* from Kazakhstan.
 
 ### Languages and technologies
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -10,12 +10,12 @@
 ![SASS](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black)
 ![ReactJS](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 <hr>
 
 
 
 ### 📚 I’m currently learning 
-- ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 - ![VueJS](https://img.shields.io/badge/vuejs%20-%2335495e?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 - ![AngularJS](https://img.shields.io/badge/-Angularjs-E23237?&style=for-the-badge&logo=angularjs)
 <hr>
