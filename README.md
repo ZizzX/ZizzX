@@ -13,14 +13,13 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![VueJS](https://img.shields.io/badge/vuejs%20-%2335495e?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 ![AngularJS](https://img.shields.io/badge/-Angularjs-E23237?&style=for-the-badge&logo=angularjs)
-![NodeJS](https://img.shields.io/badge/Nodejs-FF3366?&style=for-the-badge&logo=nodedotjs)
+![NodeJS](https://img.shields.io/badge/Nodejs-FF3366?&style=for-the-badge&logo=nodedotjs&logoColor=%FF3366)
 <hr>
 
 
 
 ### 📚 I’m currently learning 
-- ![VueJS](https://img.shields.io/badge/vuejs%20-%2335495e?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
-- ![AngularJS](https://img.shields.io/badge/-Angularjs-E23237?&style=for-the-badge&logo=angularjs)
+- ![Python](https://img.shields.io/badge/python-2335495e?&style=for-the-badge&logo=python&logoColor=%3776AB)
 <hr>
 
 
