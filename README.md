@@ -1,5 +1,5 @@
 # Hi, my name is **Aziz Isapov** 👋
-## I'm a *Front-end developer* from Kazakhstan.
+## I'm a *FullStack developer* from Kazakhstan.
 
 ### Languages and technologies
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
